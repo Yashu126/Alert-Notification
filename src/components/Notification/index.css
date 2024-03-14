@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.box {
+  width: 70%;
+  border: 1px solid #e5e5e5;
+  padding: 25px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
